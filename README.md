@@ -48,7 +48,7 @@ When I'm not proving theorems or desperately debugging code, I'm probably out ru
 | Project | What it does | Stack |
 |---|---|---|
 | **[P-resents](https://github.com/stefanienguyn)** <!-- TODO: fix link --> | Bipartite matching with exclusion constraints to generate valid gift-exchange assignments over group graphs — cut a manual process by ~90% | Python, Next.js, Tailwind |
-| **[Pho-around]** | Coming Soon ... | |
+| **Pho-around** | Coming Soon ... | |
 | <!-- TODO: project 3 --> | | |
 | <!-- TODO: C++ project slot --> | | |
 
