@@ -1,6 +1,6 @@
 # Hi, I'm Stefanie 👋
 
-**Math & CS @ Pomona College · Sài Gòn → Claremont, CA · Vietnamese / English**
+**Math & CS @ Pomona College · Sài Gòn, Vietnam → Claremont, CA · Vietnamese / English**
 
 Born and raised in Sài Gòn, I'm a rising sophomore at Pomona College studying Math and Computer Science — which is honestly just a fancy way of saying I enjoy making things complicated before figuring out how to optimize them.
 
